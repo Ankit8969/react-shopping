@@ -35,6 +35,6 @@ section{
     border: none;
     font-weight: bold;
     background-color: skyblue;
-    outline: none;
+    outline-color: transparent;
     border-radius: 2px;
 }
