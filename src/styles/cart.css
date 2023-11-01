@@ -36,7 +36,7 @@ article{
     font-weight: bold;
     letter-spacing: 2px;
     border:none;
-    outline: none;
+    outline-color: transparent;
     color: white;
     background-color: skyblue;
     border-radius: 5px;
