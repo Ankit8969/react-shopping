@@ -11,3 +11,8 @@
     padding: 5px;
     border-radius: 5px;
 }
+section{
+    display: flex;
+    justify-content: center;
+    gap:2em;
+}
